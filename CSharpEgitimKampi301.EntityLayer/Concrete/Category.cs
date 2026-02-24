@@ -8,5 +8,6 @@ namespace CSharpEgitimKampi301.EntityLayer.Concrete
 {
     public class Category
     {
+
     }
 }
