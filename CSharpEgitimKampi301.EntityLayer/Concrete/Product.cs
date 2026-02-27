@@ -15,3 +15,4 @@ namespace CSharpEgitimKampi301.EntityLayer.Concrete
         public string ProductDescription { get; set; }    
     }
 }
+  
