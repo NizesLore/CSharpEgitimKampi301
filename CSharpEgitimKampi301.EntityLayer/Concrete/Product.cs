@@ -13,6 +13,6 @@ namespace CSharpEgitimKampi301.EntityLayer.Concrete
         public int ProductStock { get; set; }  
         public decimal ProductPrice { get; set; }         
         public string ProductDescription { get; set; }        
-    }
+    }  
 }     
     
