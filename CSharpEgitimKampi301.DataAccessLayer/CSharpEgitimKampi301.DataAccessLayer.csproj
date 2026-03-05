@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="Abstract\ICategoryDal.cs" />
     <Compile Include="Abstract\IGenericDal.cs" />
+    <Compile Include="Abstract\IProductDal.cs" />
     <Compile Include="Context\CampContext.cs" />
     <Compile Include="Migrations\202603041640117_mig1.cs" />
     <Compile Include="Migrations\202603041640117_mig1.Designer.cs">
