@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\ICategoryDal.cs" />
     <Compile Include="Abstract\IGenericDal.cs" />
     <Compile Include="Context\CampContext.cs" />
     <Compile Include="Migrations\202603041640117_mig1.cs" />
