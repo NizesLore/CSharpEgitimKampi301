@@ -19,5 +19,5 @@ namespace CSharpEgitimKampi301.EFProject
             Application.Run(new Form1());
         }
     }
-}
+}  
   
