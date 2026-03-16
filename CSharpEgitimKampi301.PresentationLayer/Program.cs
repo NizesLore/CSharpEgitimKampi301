@@ -10,9 +10,9 @@ namespace CSharpEgitimKampi301.PresentationLayer
     {  
         /// <summary> 
         /// The main entry point for the application.         
-        /// </summary>  
+        /// </summary>    
         [STAThread]  
-        static void Main()               
+        static void Main()                   
         { 
             Application.EnableVisualStyles(); 
             Application.SetCompatibleTextRenderingDefault(false); 
