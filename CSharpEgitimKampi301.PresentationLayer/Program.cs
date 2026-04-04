@@ -18,5 +18,5 @@ namespace CSharpEgitimKampi301.PresentationLayer
             Application.SetCompatibleTextRenderingDefault(false);  
             Application.Run(new Form1());                        
         }                     
-    }   
+    }     
 }       
