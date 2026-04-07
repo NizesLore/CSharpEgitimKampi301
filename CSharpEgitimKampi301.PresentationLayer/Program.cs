@@ -13,7 +13,7 @@ namespace CSharpEgitimKampi301.PresentationLayer
         /// </summary>    
         [STAThread]      
         static void Main()                               
-        {   
+        {     
             Application.EnableVisualStyles();     
             Application.SetCompatibleTextRenderingDefault(false);  
             Application.Run(new Form1());                            
