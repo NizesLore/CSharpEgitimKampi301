@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpEgitimKampi301.DataAccessLayer.Context
+namespace CSharpEgitimKampi301.DataAccessLayer.Context 
 {
     public class CampContext : DbContext  
     {
