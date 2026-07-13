@@ -14,7 +14,7 @@ namespace CSharpEgitimKampi301.EFProject
      
     public partial class Location
     {
-        public int LocationId { get; set; }
+        public int LocationId { get; set; }  
         public string City { get; set; }
         public string Country { get; set; }
         public Nullable<byte> Capacity { get; set; }
