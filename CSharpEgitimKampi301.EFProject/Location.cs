@@ -10,8 +10,8 @@
 namespace CSharpEgitimKampi301.EFProject
 {
     using System;
-    using System.Collections.Generic;
-    
+    using System.Collections.Generic; 
+     
     public partial class Location
     {
         public int LocationId { get; set; }
