@@ -18,11 +18,11 @@ namespace CSharpEgitimKampi301.EFProject
         public Guide()
         {
             this.Location = new HashSet<Location>();
-        } 
+        }
     
         public int GuideId { get; set; }
         public string GuideName { get; set; }
-        public string GuideSurname { get; set; }   
+        public string GuideSurname { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Location> Location { get; set; }

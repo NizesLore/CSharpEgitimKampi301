@@ -13,10 +13,10 @@ namespace CSharpEgitimKampi301.EFProject
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class EgitimCampiEfTravelDbEntities : DbContext
+    public partial class EgitimCampiEfTravelDbEntities1 : DbContext
     {
-        public EgitimCampiEfTravelDbEntities()
-            : base("name=EgitimCampiEfTravelDbEntities")
+        public EgitimCampiEfTravelDbEntities1()
+            : base("name=EgitimCampiEfTravelDbEntities1")
         {
         }
     

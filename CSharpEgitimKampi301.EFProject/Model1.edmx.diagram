@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="ad60b96935d547f093c609d3fc52bd74" Name="Diagram1">
+      <Diagram DiagramId="a226660ac53243929ccedf686cd51ea3" Name="Diagram1">
         <EntityTypeShape EntityType="EgitimCampiEfTravelDbModel.Customer" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
         <EntityTypeShape EntityType="EgitimCampiEfTravelDbModel.Guide" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
         <EntityTypeShape EntityType="EgitimCampiEfTravelDbModel.Location" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
@@ -12,4 +12,4 @@
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
-</edmx:Edmx> 
+</edmx:Edmx>
