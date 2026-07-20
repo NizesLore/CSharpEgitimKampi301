@@ -22,6 +22,6 @@ namespace CSharpEgitimKampi301.EFProject
         public string DayNight { get; set; }
         public Nullable<int> GuideId { get; set; }
     
-        public virtual Guide Guide { get; set; } 
+        public virtual Guide Guide { get; set; }  
     }
 }
