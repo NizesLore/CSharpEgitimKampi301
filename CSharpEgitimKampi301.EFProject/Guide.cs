@@ -20,7 +20,7 @@ namespace CSharpEgitimKampi301.EFProject
             this.Location = new HashSet<Location>();
         }
     
-        public int GuideId { get; set; }
+        public int GuideId { get; set; }  
         public string GuideName { get; set; }
         public string GuideSurname { get; set; }
     
