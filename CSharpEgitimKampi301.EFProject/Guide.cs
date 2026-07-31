@@ -16,7 +16,7 @@ namespace CSharpEgitimKampi301.EFProject
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Guide() 
-        { 
+        {  
             this.Location = new HashSet<Location>();           
         }   
     
