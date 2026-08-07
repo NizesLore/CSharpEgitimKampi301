@@ -10,7 +10,7 @@ namespace CSharpEgitimKampi301.DataAccessLayer.Context
 {
     public class CampContext : DbContext                                                                 
 35
-    {        
+    259594{        
         public DbSet<Category>  Categories { get; set; }                                                   
         public DbSet<Product> Products { get; set; }                                
         public DbSet<Order> Orders { get; set; }              
