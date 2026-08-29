@@ -11,7 +11,7 @@ namespace CSharpEgitimKampi301.EFProject
 { 
     using System;    
     using System.Collections.Generic;                               
-         
+          
     public partial class Guide         
     { 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
